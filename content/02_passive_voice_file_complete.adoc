@@ -1,4 +1,4 @@
-The cluster is installed by the OpenShift operator.
+The cluster database is installed by the CrunchyData operator.
 
 Open source software is used in development.
 
