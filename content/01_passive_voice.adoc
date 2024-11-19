@@ -1,0 +1,10 @@
+// Highlight a sentence and press ctrl+i, to activate the context in the chat window.
+// Then type @active_selection and press Enter to
+// The cluster is installed by the OpenShift operator.
+The OpenShift operator installs the cluster.
+
+// Open source software is used in development.
+Software developers use open source software in their work.
+
+// OpenSource software is typically developed collaboratively by a community of developers who contribute their time and expertise to improve the software.
+Software developers typically develop OpenSource software collaboratively, contributing their time and expertise to improve it.

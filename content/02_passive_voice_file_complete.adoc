@@ -1,0 +1,6 @@
+The cluster is installed by the OpenShift operator.
+
+Open source software is used in development.
+
+OpenSource software is typically developed collaboratively by a community of developers who contribute their time and expertise to improve the software.
+
